@@ -3,7 +3,6 @@ public class Cylinder extends Circle{
 
     public Cylinder(double radius, double height) {
         super(radius, height);
-        // TODO Auto-generated constructor stub
     }
 
     public Cylinder(double radius) {
